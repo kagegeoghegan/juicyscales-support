@@ -6,4 +6,4 @@ The app runs entirely on your device and does not transmit data to external serv
 If you have any questions about this Privacy Policy, please contact us at:  
 **kggeoghegan@icloud.com**
 
-[View our Privacy Policy](privacy.md)
+
