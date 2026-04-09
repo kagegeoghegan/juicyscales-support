@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Support – Juicy Scales</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      background: #fdf6ec;
+      color: #1c0a02;
+      padding: 48px 24px;
+      max-width: 680px;
+      margin: 0 auto;
+      line-height: 1.7;
+    }
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      margin-bottom: 6px;
+    }
+    .subtitle {
+      color: #7a5228;
+      font-size: 14px;
+      margin-bottom: 40px;
+    }
+    h2 {
+      font-size: 17px;
+      font-weight: 600;
+      margin-top: 36px;
+      margin-bottom: 8px;
+    }
+    p {
+      font-size: 15px;
+      margin-bottom: 12px;
+    }
+    .faq-item {
+      background: #fff8ee;
+      border: 1px solid #e0c89a;
+      border-radius: 10px;
+      padding: 16px 20px;
+      margin-bottom: 12px;
+    }
+    .faq-item p.q {
+      font-weight: 600;
+      margin-bottom: 4px;
+    }
+    .faq-item p.a {
+      color: #3a1a08;
+      margin-bottom: 0;
+    }
+    .contact-box {
+      background: #fff8ee;
+      border: 1px solid #e0c89a;
+      border-radius: 10px;
+      padding: 20px 24px;
+      margin-top: 16px;
+    }
+    a { color: #7a3d0e; }
+    footer {
+      margin-top: 56px;
+      font-size: 13px;
+      color: #9b7441;
+      border-top: 1px solid #e0c89a;
+      padding-top: 20px;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Support</h1>
+  <p class="subtitle">Juicy Scales &nbsp;·&nbsp; We're happy to help</p>
+
+  <p>Juicy Scales is actively developed and your feedback genuinely shapes the app. If something isn't working or you have a feature idea, reach out directly.</p>
+
+  <h2>Frequently Asked Questions</h2>
+
+  <div class="faq-item">
+    <p class="q">How do I change the key or scale?</p>
+    <p class="a">Tap the Key or Scale buttons in the control panel at the bottom of the screen. A full list picker will open. Select your choice and the fretboard updates instantly.</p>
+  </div>
+
+  <div class="faq-item">
+    <p class="q">What are positions?</p>
+    <p class="a">Positions filter the fretboard to a specific positional pattern within a fret window. Select "All" to see the full scale across the neck, or choose a numbered position (1–5) to focus on one area at a time.</p>
+  </div>
+
+  <div class="faq-item">
+    <p class="q">How do I see note names instead of intervals?</p>
+    <p class="a">Tap the Intervals / Notes button on the left side of the control panel to cycle between interval numbers, note names, and plain dots.</p>
+  </div>
+
+  <div class="faq-item">
+    <p class="q">Can I mute individual strings?</p>
+    <p class="a">Yes. Tap any string peg in the tuning column on the left edge of the fretboard to toggle that string on or off.</p>
+  </div>
+
+  <div class="faq-item">
+    <p class="q">How do I learn about a scale's chords and theory?</p>
+    <p class="a">Tap the Now Playing bar (the pill showing your current key and scale). This opens a panel with a description of the scale, common chord progressions, and a scale degree table, all transposed to your selected key.</p>
+  </div>
+
+  <div class="faq-item">
+    <p class="q">The app isn't behaving as expected. What should I do?</p>
+    <p class="a">Try force-quitting and reopening the app. If the issue persists, send us a note at the email below describing what happened and we'll look into it.</p>
+  </div>
+
+  <h2>Contact</h2>
+  <div class="contact-box">
+    <p>For bug reports, feature requests, or anything else:</p>
+    <p><a href="mailto:kggeoghegan@icloud.com">kggeoghegan@icloud.com</a></p>
+    <p style="margin-top: 8px; font-size: 14px; color: #7a5228;">You can also submit feedback directly from inside the app using the Suggestions button.</p>
+  </div>
+
+  <footer>Juicy Scales &copy; 2026</footer>
+
+</body>
+</html>
