@@ -1,36 +1,22 @@
-**Privacy Policy**
+Privacy Policy
+Juicy Scales  ·  Last updated April 8, 2026
 
-Effective Date: August 21, 2025
+Juicy Scales is a fretboard reference tool for guitar and bass players. This policy explains what information the app collects — and the short answer is: none.
 
-Juicy Scales, developed and published by Lurb Developments (referred to as “we,” “our,” or “us”), values your privacy. This Privacy Policy explains how your information is handled when you use our macOS application, Juicy Scales.
+No Data Collected
+Juicy Scales does not collect, store, or transmit any personal information. There are no accounts, no sign-ins, and no user profiles. Your selected key, scale, tuning, and preferences are saved locally on your device using Apple's standard UserDefaults and never leave your device.
 
-**Information We Do Not Collect**
+No Tracking or Analytics
+Juicy Scales contains no third-party analytics, advertising SDKs, or tracking of any kind. We do not know how often you use the app, which scales you play, or anything else about how you use it.
 
-We do not collect, store, or transmit any personally identifiable information (such as your name, email address, or contact details).
+Feedback (Optional)
+The app includes an optional feedback form. If you choose to submit feedback, your message is sent via Formspree to the developer's email address. No other information is transmitted. Submitting feedback is entirely optional and nothing is sent unless you explicitly tap the Send button.
 
-We do not track your usage, location, or device identifiers.
+Children
+Juicy Scales does not collect any data from any users, including children under 13.
 
-We do not use third-party analytics, advertising networks, or trackers.
+Changes to This Policy
+If anything about data handling ever changes, this page will be updated with a new date at the top.
 
-**Information Processed on Your Device**
-
-All app functionality, including scale visualization, chord progressions, and user selections, is processed locally on your device. No information leaves your device or is transmitted to us.
-
-**Third-Party Libraries**
-
-Juicy Scales uses third-party open-source libraries (such as Matplotlib, NumPy, and PyObjC) strictly for application functionality. These libraries do not independently collect or transmit user data.
-
-**Security**
-
-Because we do not collect or transmit user data, there are no servers or databases at risk of exposure. Your data stays on your device.
-
-**Changes to This Policy**
-
-We may update this Privacy Policy from time to time to reflect changes in technology or legal requirements. Updates will be published at:
-👉 https://kagegeoghegan.github.io/juicyscales-support/privacy.html
-
-**Contact Us**
-
-If you have questions or concerns about this Privacy Policy, please contact us at:
-
-Email: kggeoghegan@icloud.com
+Contact
+Questions? Reach out at kggeoghegan@icloud.com.
